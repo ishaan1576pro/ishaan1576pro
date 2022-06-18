@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishaan Batabyal
-- 👀 I’m interested in C++ and pytohn
-- 🌱 I’m currently learning python
+- 👀 I’m interested in C, C++ and NASM
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on no one
 - 📫 ishaanbatabyal2@gmail.com is my email
 
